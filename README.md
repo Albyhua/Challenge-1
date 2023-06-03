@@ -1,7 +1,7 @@
 # Horiseon Start-up
 
 ## Description
-A client, Horiseon, came up to us to help with their code with their newly developed website from their junior engineer. Our client request that we look through the code and see any issues while maintaining the original look of what was sent to us (the manager really liked the page and did not want any major changes). The webpage was sent completed when sent to us, however, there was code that could be be changed without changing the website. 
+A client, Horiseon, came up to us to help with their code with their newly developed website from their junior engineer. Our client request that we look through the code and see any issues while maintaining the original look of what was sent to us (the manager really liked the page and did not want any major changes). The webpage was sent completed when sent to us, however, there was code that could be be changed without changing the website. As an software engineer hired by Horiseon, I want to clean their webpage code so that the they will have an easier time looking through the code if they so choose to update their webpage
 
 ## Before
 ![Horiseon Image](./assets/images/01-html-css-git-homework-demo.png/)
