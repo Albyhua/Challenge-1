@@ -75,26 +75,26 @@ p {
 }
 
 
-.benefit-1 {
+.Company-Strategy {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.benefit-1 h3 {
+.Company-Strategy h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-.benefit-1 img {
+.Company-Strategy img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 
-.search-engine-optimization {
+.Media-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -104,11 +104,11 @@ p {
 }
 
 
-.search-engine-optimization img {
+.Media-optimization img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.Media-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
